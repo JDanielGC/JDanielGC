@@ -29,8 +29,8 @@
 
 
 <!-- Background -->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[ezgif com-gif-maker](https://1.bp.blogspot.com/-BnVBKktIE1U/WBpptscaW6I/AAAAAAAAADg/8eVluXPOGk4Dvp3ApybTy1qnPhyhcVNFwCLcB/s1600/cartoons.gif)
+<img src="https://1.bp.blogspot.com/-BnVBKktIE1U/WBpptscaW6I/AAAAAAAAADg/8eVluXPOGk4Dvp3ApybTy1qnPhyhcVNFwCLcB/s1600/cartoons.gif" 
+       width="30px">
 
 &nbsp;
 
