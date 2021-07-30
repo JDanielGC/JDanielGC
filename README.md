@@ -1,7 +1,7 @@
 <!-- Title -->
 <h1 align="center">HOLA MI NOMBRE ES DANIEL
   <img src="https://i.pinimg.com/originals/f7/a7/77/f7a777b63a1bcc85ed0119685f065b1c.gif" 
-       width="30px">
+       width="50px">
   </h2></h1>
 
 
@@ -13,14 +13,14 @@
 <a href="https://www.linkedin.com/in/josé-daniel-gómez-carrasco-698824213" rel="nofollow">
   <img align="center" 
        alt="Linkdein" 
-       width="22px" 
+       width="30px" 
        src="https://user-images.githubusercontent.com/55005374/103146171-312a4c00-470b-11eb-8839-992580bb8206.png" />
   </a>
   
 <a href="mailto:ingjdgc27@gmail.com">
   <img align="center" 
        alt="Gmail" 
-       width="22px" 
+       width="30px" 
        src="https://user-images.githubusercontent.com/55005374/103146250-0d1b3a80-470c-11eb-8ead-a92232d45d6e.png" />
   </a>
 </h1>
@@ -30,7 +30,7 @@
 
 <!-- Background -->
 <img src="https://1.bp.blogspot.com/-BnVBKktIE1U/WBpptscaW6I/AAAAAAAAADg/8eVluXPOGk4Dvp3ApybTy1qnPhyhcVNFwCLcB/s1600/cartoons.gif" 
-       width="30px">
+       width="300px">
 
 &nbsp;
 
