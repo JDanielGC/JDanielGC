@@ -47,7 +47,7 @@
   <code><img height="40" src="https://a.fsdn.com/allura/p/wampserver/icon?1529317791?&w=90"></code>
   <code><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-128.png"></code>
   <code><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/568/php-logo-128.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688875-5dcdcd80-0bca-11eb-8915-b3cf9791ca3c.png"></code>
+
 
   </p>
   
