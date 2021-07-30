@@ -1,6 +1,6 @@
 <!-- Title -->
 <h1 align="center">HOLA MI NOMBRE ES DANIEL :D
-  <img src="https://media1.giphy.com/media/hJ3SrA06ghm80/giphy.gif?cid=790b7611442c7a6ffac7a8f9cf51a66933720f6159cedd91&rid=giphy.gif" 
+  <img src="" 
        width="30px">
   </h2></h1>
 
@@ -31,7 +31,7 @@
 <!-- Background -->
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/55005374/95673501-37764680-0b66-11eb-8ee1-d4f4a2b285d9.gif)
+![ezgif com-gif-maker](https://media1.giphy.com/media/hJ3SrA06ghm80/giphy.gif?cid=790b7611442c7a6ffac7a8f9cf51a66933720f6159cedd91&rid=giphy.gif)
 
 &nbsp;
 
