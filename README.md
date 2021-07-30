@@ -1,6 +1,6 @@
 <!-- Title -->
-<h1 align="center">HOLA MUNDO 
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
+<h1 align="center">HOLA MI NOMBRE ES DANIEL :D
+  <img src="https://media1.giphy.com/media/hJ3SrA06ghm80/giphy.gif?cid=790b7611442c7a6ffac7a8f9cf51a66933720f6159cedd91&rid=giphy.gif" 
        width="30px">
   </h2></h1>
 
