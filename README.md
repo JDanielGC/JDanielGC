@@ -29,9 +29,10 @@
 
 
 <!-- Background -->
+<center>
 <img src="https://1.bp.blogspot.com/-BnVBKktIE1U/WBpptscaW6I/AAAAAAAAADg/8eVluXPOGk4Dvp3ApybTy1qnPhyhcVNFwCLcB/s1600/cartoons.gif" 
-       width="500px">
-
+       width="400px">
+</center>
 &nbsp;
 
 <!-- Technical Skills -->
